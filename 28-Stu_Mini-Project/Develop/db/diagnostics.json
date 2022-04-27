@@ -28,14 +28,6 @@
     },
     {
         "time": 0,
-        "error_id": "10df15bb-ed26-4e6b-a8d1-1e63e5c7f896",
-        "errors": {
-            "topic": "Gaming is not a valid topic",
-            "username": "hi"
-        }
-    },
-    {
-        "time": 0,
         "error_id": "37a85fb7-8717-4ce9-96bd-bf13617ca418",
         "errors": {
             "tip": "hello",
